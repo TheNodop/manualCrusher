@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IPI",
+    "IFI",
+    "ISI"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:stone_pressure_plate"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "S": {
+      "item": "minecraft:slime_ball"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "manualcrusher:crusher"
+  }
+}
