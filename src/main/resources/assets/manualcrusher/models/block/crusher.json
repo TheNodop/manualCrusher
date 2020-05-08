@@ -1,8 +1,9 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/cube_bottom_top",
   "textures": {
-    "all": "minecraft:block/iron_block",
-    "top": "minecraft:block/birch_planks",
-    "bottom": "minecraft:block/birch_planks"
+    "top": "manualcrusher:block/crusher_top",
+    "bottom": "minecraft:block/birch_planks",
+    "side": "minecraft:block/iron_block",
+    "particle": "minecraft:block/stone"
   }
 }

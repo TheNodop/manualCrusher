@@ -1,0 +1,6 @@
+{
+  "type": "manualcrusher:crushing",
+  "input": "minecraft:iron_ore",
+  "output": "manualcrusher:iron_chunk",
+  "amount": 2,
+}
